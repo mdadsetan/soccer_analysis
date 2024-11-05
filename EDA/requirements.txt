@@ -1,1 +1,2 @@
-numpy=2.10
+numpy==2.10
+seabon==3.10
